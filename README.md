@@ -1,6 +1,6 @@
 # RHEL-mail-script
 #Email details
-receiver="h.anand@cgi.com"
+receiver="h.anand@google.com"
 subject="Housekeeping script result"
 body_file="$output_file"
 #send email
